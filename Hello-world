@@ -1,0 +1,11 @@
+#include <iostream>
+
+int main(){
+using namespace std;
+char ch;
+cout<<"What's your name?"<<endl;
+cin>>ch;
+cout<<"Nice to meet you, "<<ch<<"!"<<endl;
+
+return 0;
+}
